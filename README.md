@@ -1,4 +1,4 @@
-# HooBank: Modern Business-Friendly React Landing Page {[Website Link](https://study-notion-kapil-2305.vercel.app/)}
+# HooBank: Modern Business-Friendly React Landing Page {[Website Link](https://hoobank-kapil-2305.vercel.app/)}
 
 ![HooBank](https://res.cloudinary.com/dgpkeaffc/image/upload/v1696608239/e8eiweswswsitbdhhtwf.png)
 
